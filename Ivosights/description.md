@@ -1,10 +1,2 @@
-# FiAr (Fishery Area)
-Fiar	merupakan	sebuah project dalam lomba OLIVIA 2022 kategori Bussiness Plan Competition. FiAr adalah usaha pengembangan perikanan air tawar yang akan dipasarkan berupa Aplikasi Android yang dapat diunduh di Google Play Store secara gratis. Visi dari FiAr yaitu membangun sebuah ekosistem dimana siapapun bisa menjual dan membeli segala hal yang berkaitan dengan perikanan air tawar. Dengan adanya FiAr akan memberikan kemudahan kepada pengguna terutama UMKM dalam hal pembelian dan penjualan ikan air tawar, memberikan wawasan luas, serta mempermudah aktivitas dalam memanfaatkan sumber daya perikanan budidaya ikan air tawar secaara berkelanjutan. 
-
-Dalam FiAr terdapat fitur-fitur sebagai berikut:
-- Pembelian ikan air tawar
-- Edukasi mengenai perawatan ikan air tawar dan penggunaan alat-alat kebutuhan budidaya ikan air tawar
-- Progres mengenai pertumbuhan dan perkembangan ikan air tawar 
-
-Berikut Video Teaser dari Mockup Aplikasi FiAr:
-[Video Teaser - FiAr](https://drive.google.com/file/d/1huWwLd2TpwZnaSF4TFKLv8nPP5Lmr2q1/view?usp=sharing)
+# PMO at Ivosights
+Project Management Office (PMO) mencakup berbagai tugas dan tanggung jawab yang bertujuan untuk mengelola dan memantau proyek-proyek dalam sebuah perusahaan. Tugas dan tanggung jawab tersebut berupa Documentation project diawali dengan membuat FRD. Kemudian, Monitoring Project dimana PMO akan berkoordinasi dengan tim development sesuai scope dalam BRD. Selain itu, Evalution project yang berkoordinasi dengan QA untuk dokumen UAT dan membuat dokumen deliverable untuk tim AM. Sebelum documentation project, PMO membuat strategi dan perencanaan yang berkoordinasi dengan tim product management, development, dan quality assurance untuk mengidentifikasi dan mitigasi terhadap risiko serta pemecahan masalah akan risiko tersebut. Seorang PMO harus berjiwa proaktif, teliti, adaptif, dan mampu memimpin serta memotivasi tim.
