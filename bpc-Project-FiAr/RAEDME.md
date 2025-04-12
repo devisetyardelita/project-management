@@ -6,5 +6,6 @@ Dalam FiAr terdapat fitur-fitur sebagai berikut:
 - Edukasi mengenai perawatan ikan air tawar dan penggunaan alat-alat kebutuhan budidaya ikan air tawar
 - Progres mengenai pertumbuhan dan perkembangan ikan air tawar 
 
-Berikut Video Teaser dari Mockup Aplikasi FiAr:
+Berikut Video Teaser & Mockup Aplikasi FiAr:
 [Video Teaser - FiAr](https://drive.google.com/file/d/1huWwLd2TpwZnaSF4TFKLv8nPP5Lmr2q1/view?usp=sharing)
+[Mockup - FiAr}(https://drive.google.com/drive/folders/18qkKTT6nlzNx1CIUDOjMFVYFtC1B7OyM?usp=sharing)
